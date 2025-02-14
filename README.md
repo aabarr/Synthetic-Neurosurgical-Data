@@ -1,6 +1,6 @@
 # Synthetic Neurosurgical Data
 
-Provided are synthetic neurosurgical datasets generated with GPT-4o and CTGAN. Datasets pertain to the following real-world data (RWD): https://zenodo.org/records/5879095
+This repository is related to the study: Zero-Shot Generation of Synthetic Neurosurgical Data with Large Language Models (https://doi.org/10.48550/arXiv.2502.09566). Provided are the synthetic datasets generated with GPT-4o and CTGAN. These datasets are generated based on the following real-world neurosurgical data: https://zenodo.org/records/5879095
 
 # Datasets
 
